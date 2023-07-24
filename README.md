@@ -10,7 +10,7 @@ Steps to run the project locally:
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/ivansaul/flutter_todo_app.git
+git clone https://github.com/moraisacr/desafio_dti
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
@@ -35,8 +35,7 @@ flutter run
 
 ## Packages we are using:
 
-Package | Usage
------------- | -------------
 
 [hive](https://pub.dev/packages/hive) | Lightweight and blazing fast key-value database written in pure Dart.
+<br>
 [hive_flutter](https://pub.dev/packages/hive_flutter) | Extension for Hive. Makes it easier to use Hive in Flutter apps.
