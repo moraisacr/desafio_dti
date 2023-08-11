@@ -40,7 +40,10 @@ flutter run
 <br>
 [hive_flutter](https://pub.dev/packages/hive_flutter) | Extension for Hive. Makes it easier to use Hive in Flutter apps.
 
-
 <p align="center">
-  <img alt="screen" src="3.jpg" width="50%">
+  <img alt="screen" src="images/1.jpg" width="25%">
+  <img alt="screen" src="images/2.jpg" width="25%">
+</p>
+<p align="center">
+  <img alt="screen" src="images/3.jpg" width="50%">
 </p>
