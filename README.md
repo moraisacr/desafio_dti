@@ -1,4 +1,4 @@
-# desafio_dti
+# ToDO
 
 ## How to setup
 
@@ -10,7 +10,7 @@ Steps to run the project locally:
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/moraisacr/desafio_dti
+git clone https://github.com/moraisacr/todo_flutter
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
