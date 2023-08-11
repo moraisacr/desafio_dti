@@ -42,5 +42,5 @@ flutter run
 
 
 <p align="center">
-  <img alt="screen" src="3.jpg" width="100%">
+  <img alt="screen" src="3.jpg" width="50%">
 </p>
